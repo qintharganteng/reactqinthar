@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://simg.nicepng.com/png/small/911-9113243_juventus-logo-interesting-history-of-the-team-name.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Juventus Football Club S.p.A., biasa disebut sebagai Juventus dan populer dengan nama Juve, adalah klub sepak bola profesional asal Italia yang berbasis di kota Turin, Piemonte.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.juventus.com/id/"
           target="_blank"
           rel="noopener noreferrer"
         >
